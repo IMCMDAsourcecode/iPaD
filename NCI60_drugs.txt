@@ -1,0 +1,101 @@
+Methotrexate
+8-Azaguanine
+Busulfan
+Thioguanine
+6-Mercaptopurine
+Colchicine
+Mechlorethamine
+Dactinomycin
+Pyrimethamine
+Chlorambucil
+Vitamin K 3
+Thiotepa
+Metoprine
+Melphalan
+Chloroquine Phosphate
+Quinacrine
+Lucanthone
+Fluorouracil
+Thymidine
+Plicamycin
+Pipobroman
+Mitomycin
+Floxuridine
+Diallyl Disulfide
+Hydroxyurea
+Curcumin
+Uracil Mustard
+Suramin
+Mitotane
+Dacarbazine
+Vinblastine
+Cantharidin
+Cytarabine
+Vincristine
+Tetrandrine
+Lomustine
+Daunorubicin
+Daunorubicin Hydrochloride
+Helenalin
+Ethacrynic Acid
+Lupeol
+Camptothecin
+Hexamethylene Bisacetamide
+Camptothecin Sodium
+Azacitidine
+Hydroxycamptothecinum
+Betulinic Acid
+Cisplatin
+Geldanamycin
+Teniposide
+Doxorubicin
+Bleomycin
+Paclitaxel
+Decitabine
+Mycophenolic Acid
+Razoxane
+Etoposide
+Omacetaxine Mepesuccinate
+FUR
+Tegafur
+Primaquine
+Coralyne
+Berberine
+Dexrazoxane
+Pimozide
+Tamoxifen
+Aclacinomycins
+Sirolimus
+Plumbagin
+Nocodazole
+Carboplatin
+Valrubicin
+Amsacrine
+Caracemide
+Idarubicin
+Epirubicin
+Mitoxantrone
+Tiazofurin
+Avarol
+Amonafide Dihydrochloride
+Fludarabine phosphate (USAN)
+Edelfosine
+Tanespimycin
+Aminoglutethimide
+Merbarone
+Selenazofurin
+Piroxantrone
+Trimetrexate Glucuronate
+Rebeccamycin
+Brequinar Sodium
+Cholecalciferol
+Cyclopentenyl Cytosine
+Bafilomycin A1
+Carmustine
+Amphotericin B
+Jasplakinolide
+Combretastatin A4
+Romidepsin
+L-alpha-Aminobutyric Acid
+Olomoucine
+Okadaic Acid
