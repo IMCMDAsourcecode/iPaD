@@ -29,10 +29,12 @@ These files are all sub-routines of the iPaD main function.
 quality_control.m   Perform the two following quality control steps for the input data set: 1) remove genes or drugs that have less than three unique values; 2) merge pathways that have identical member genes.
 
 CCLE_analysis.m   Code for analyzing an example real data set - the Cancer Cell Line Encyclopedia (CCLE) data set. Can be used as a vignette for the usage of the iPaD package.
+
 (CCLE_L1.txt CCLE_L2_prior.txt CCLE_L2_validate.txt CCLE_Y1.txt CCLE_Y2.txt CCLE_genes.txt CCLE_drugs.txt CCLE_pathways.txt)
 These files are the CCEL data set.
 
 NCI60_analysis.m   Code for analyzing another example real data set - the NCI-60 data set. Also can be used as a vignette for the usage of the iPaD package.
+
 (NCI60_L1.txt NCI60_L2_prior.txt NCI60_L2_validate.txt NCI60_Y1.txt NCI60_Y2.txt NCI60_genes.txt NCI60_drugs.txt NCI60_pathways.txt)
 These files are the NCI-60 data set.
 
