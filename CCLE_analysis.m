@@ -6,10 +6,9 @@ rng(seed);
 Y1 = load('CCLE_Y1.txt');
 Y2 = load('CCLE_Y2.txt');
 L1 = load('CCLE_L1.txt') == 1;
-% Note that these known drug-pathway associations will not be used as prior
-% knowledge here
-L2 = load('CCLE_L2.txt') == 1;
-L2_prior = zeros(size(L2)) == 1;
+% Note that no known drug-pathway associations will not be used as prior
+% knowledge as the CCLE_L2_prior.txt are all zeros.
+L2_prior = load('CCLE_L2_prior.txt') == 1;
 
 
 %% Take the log-transformation
