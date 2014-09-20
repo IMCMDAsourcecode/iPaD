@@ -11,7 +11,7 @@ Hongyu Zhao,  hongyu.zhao@yale.edu
 
 ====
 
-'iPaD' is a package written in Matlab and the name stands for 'integraive Penalized matrix Decomposition (for drug-pathway association analysis)'. It performs drug-pathay association analysis on paired transcription/drug sensitivity profile data using an efficient bi-convex optimization algorithm. For usage instructions, please refer to 'CCEL_analysis.m' and 'NCI60_analysis.m' as vignettes.
+'iPaD' is a package written in Matlab and the name stands for 'integraive Penalized matrix Decomposition (for drug-pathway association analysis)'. It performs drug-pathay association analysis on paired transcription/drug sensitivity profile data using an efficient bi-convex optimization algorithm. For instructions on how to use this package, please refer to 'CCEL_analysis.m' and 'NCI60_analysis.m' as vignettes.
 
 It requires the following four matrices as input: 1) An N by G transcription profile matrix Y1; 2) An N by D drug sensitivity matrix Y2; 3) A P by G pathway-gene relationship indicator matrix L1; 4) A P by D drug-pathway association indicator matrix L2_prior. N is the number of cell lines (samples), G is the number of genes, D is the number of drugs and P is the number of pathways. Of course, the samples, genes, drugs and pathways have to be in the same order across these matrices. 
 
