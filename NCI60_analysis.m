@@ -7,7 +7,7 @@ Y1 = load('NCI60_Y1.txt');
 Y2 = load('NCI60_Y2.txt');
 L1 = load('NCI60_L1.txt') == 1;
 % Note that this is the drug-pathway associations that are used as prior knowledge. Set the matrix to all zeros if no prior knowledge are used.
-L2_prior = load('NCI60_L2.txt') == 1; 
+L2_prior = load('NCI60_L2_prior.txt') == 1; 
 
 
 
